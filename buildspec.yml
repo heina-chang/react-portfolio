@@ -9,6 +9,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - *.pdf
+    - HeinaChangResume2017.pdf
     - styles/*
     - images/*
