@@ -1,2 +1,2 @@
-# react-portfolio
-This is portfolio created by React
+# React Portfolio
+This is portfolio created by ReactJS and AWS
